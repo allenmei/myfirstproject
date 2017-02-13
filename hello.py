@@ -1,4 +1,4 @@
-# print("Hello world!")
+print("Hello world!")
 # print(100 + 100)
 # print(100 ** 2)
 
